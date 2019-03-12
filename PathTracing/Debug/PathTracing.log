@@ -1,0 +1,8 @@
+﻿  Light.cpp
+f:\002 zju\003 cg\rendering\code\new-pathtracing\test-pathtracing\pathtracing\pathtracing\pathtracing\light.cpp(42): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+f:\002 zju\003 cg\rendering\code\new-pathtracing\test-pathtracing\pathtracing\pathtracing\pathtracing\light.cpp(68): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+f:\002 zju\003 cg\rendering\code\new-pathtracing\test-pathtracing\pathtracing\pathtracing\pathtracing\light.cpp(77): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+f:\002 zju\003 cg\rendering\code\new-pathtracing\test-pathtracing\pathtracing\pathtracing\pathtracing\light.cpp(78): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+f:\002 zju\003 cg\rendering\code\new-pathtracing\test-pathtracing\pathtracing\pathtracing\pathtracing\light.cpp(86): warning C4244: “参数”: 从“const double”转换到“float”，可能丢失数据
+  PathTracing.vcxproj -> F:\002 ZJU\003 CG\Rendering\Code\new-PathTracing\test-pathTracing\PathTracing\PathTracing\Debug\PathTracing.exe
+  PathTracing.vcxproj -> F:\002 ZJU\003 CG\Rendering\Code\new-PathTracing\test-pathTracing\PathTracing\PathTracing\Debug\PathTracing.pdb (Partial PDB)
